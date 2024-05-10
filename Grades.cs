@@ -111,7 +111,7 @@ namespace GradingSystem
             txtSeatwork.Clear();
         }
 
-        private void btnUpdate_Click(object sender, EventArgs e)
+        private void btnAddNew_Click(object sender, EventArgs e)
         {
             
             double PQuiz = Convert.ToDouble(txtQuiz.Text);
